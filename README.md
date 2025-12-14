@@ -21,7 +21,7 @@
 
 | Файл | Назначение |
 |------|------------|
-| `deforestation_monitoring.ipynb` | Основной ноутбук Colab с полным пайплайном |
+| `deforestation_monitoring.ipynb` | Основной ноутбук Colab |
 | `requirements.txt` | Список зависимостей |
 | `README.md` | Эта документация |
 | `utils.py` | Вспомогательные функции (опционально) |
