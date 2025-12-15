@@ -30,7 +30,6 @@
 - **Python 3.10+** (стандартная среда Colab)
 - **PyTorch + Segment Anything (SAM)** для сегментации
 - **NumPy, Matplotlib, OpenCV** для обработки и визуализации
-- **Google Earth Engine** (опционально) для работы с реальными спутниковыми данными
 
 ## ⚙️ Адаптация под ограничения Colab
 
